@@ -55,3 +55,7 @@ TextSphere contains the following customizations presents.
 Çağrı ÇOLAK ([@cgcolak](https://twitter.com/cgcolak))
 ### License
 TextSphere is released under the MIT license. See LICENSE for details.
+
+## Other My Repos
+- [CoreCharts](https://github.com/cagricolak/CoreCharts) - CoreCharts is a simple powerfull yet Charts library for apple products
+
